@@ -1,5 +1,9 @@
 # React Assessment (TODO-LIST-APP)
-A basic ToDo list appliction where a user can create, read, update and delete tasks.
+A basic ToDo list appliction where a user can create, read, update and delete tasks. 
+* Implemented ant design UI library to style the buttons and input fields.
+* Implemented useState hook to manage the states.
+* implemented filter option to view only the completed tasks or all the tasks.
+* Implemented CRUD operations.
 
 # Initial page
 <img width="1198" alt="initial_image" src="https://github.com/ajaykumar-847/todo-list-react/assets/85800296/ee8f16cc-edcf-4f78-b258-f05dd9aafee9">
